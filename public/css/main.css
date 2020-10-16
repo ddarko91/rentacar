@@ -1,0 +1,22 @@
+body {
+    background-color:  #808B96;
+}
+.panel {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.hometitle {
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.locationlist {
+    font-size: 110%;
+}
+.locationlist a {
+    font-weight: normal;
+}
+.locationlist a:hover {
+    text-decoration: none;
+    color: #154360;
+    font-weight: bold;
+}
